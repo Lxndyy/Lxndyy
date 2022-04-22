@@ -2,6 +2,7 @@
 - 👀 I’m interested in getting in to ethical Hacking and programming in general
 - 🌱 I’m currently learning python and other languages for ethical Hacking
 - 📫 My email is: landkawan11@gmail.com
+- new to GitHub
 
 
 <!---
